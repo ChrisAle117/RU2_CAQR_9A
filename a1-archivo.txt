@@ -2,4 +2,8 @@ Archivo de la actividad 1 - Christopher Alexis
 Primer Parrafo desde main
 Segundo Parrafo desde main
 
+<<<<<<< HEAD
+Primer parrafo desde user1
+=======
 Primer Comentario desde Hotfix
+>>>>>>> a1-develop
