@@ -1,2 +1,5 @@
 Archivo de la actividad 4 - Christopher Alexis
 Primer parrafo desde main
+
+Primer parrafo desde user1
+Segundo parrafo desde user1
