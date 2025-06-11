@@ -1,8 +1,11 @@
 Archivo de la actividad 3 - Christopher Alexis
-<<<<<<< HEAD
+
+
+Parrafo desde user1
+Parrafo 2 desde user1
+Parrafo 3 desde user1
 
 Parrafo 1 desde user3
-=======
 Parrafo 1 desde user2
 Parrafo 2 desde user2
->>>>>>> a3-user2
+
