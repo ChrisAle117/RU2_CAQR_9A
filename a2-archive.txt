@@ -1,1 +1,9 @@
 Archivo de la actividad 2 - Christopher Alexis
+<<<<<<< HEAD
+Primer parrafo desde develop
+Segundo parrafo desde develop
+=======
+
+Parrafo 1 desde user 2
+Parrafo 2 desde user 2
+>>>>>>> develop
